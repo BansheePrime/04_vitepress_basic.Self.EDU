@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: '/',
+  base: '/04_vitepress_basic.Self.EDU/',
   title: "Demerara",
   description: "Travel agency",
   themeConfig: {
