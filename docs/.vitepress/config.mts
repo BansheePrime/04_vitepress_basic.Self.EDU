@@ -4,7 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   base: '/04_vitepress_basic.Self.EDU/',
   title: "Demerara",
-  description: "Travel agency",
+  description: "Gastro adventure",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
